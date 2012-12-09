@@ -6,6 +6,7 @@ class BeardedOctoHipster
   def name
     "BeardedOctoHipster"
   end
+  
 
   def a_method
     some_things = ["bob", "mike", "fart"]
